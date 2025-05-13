@@ -1,7 +1,8 @@
 .moves {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    margin: auto;
+    justify-content: center;
 }
 button {
     background-color: rgb(149, 125, 173);
@@ -13,4 +14,8 @@ button {
 }
 body{
     background-color:rgb(224, 187, 228);
+    justify-content: center;
+}
+.shifoumi {
+   background-color: beige;
 }
