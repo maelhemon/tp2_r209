@@ -23,3 +23,7 @@ body{
   flex-direction: column;
   padding: 6rem;
 }
+h1{
+    display: flex;
+    justify-content: center;
+}
