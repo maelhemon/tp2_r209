@@ -11,6 +11,7 @@ button {
 #reset {
   background-color:rgb(149, 125, 173) ;
   color: bisque;
+  padding: 2rem;
 }
 body{
     background-color:rgb(224, 187, 228);
