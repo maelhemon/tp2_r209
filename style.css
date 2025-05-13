@@ -1,0 +1,13 @@
+.moves {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(149, 125, 173);
+}
+button {
+   background-color:rgb(224, 187, 228);
+   color: bisque;
+}
+#reset {
+  background-color:rgb(149, 125, 173) ;
+  color: bisque;
+}

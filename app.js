@@ -1,0 +1,3 @@
+function shifoumi(){
+    let test;
+}
