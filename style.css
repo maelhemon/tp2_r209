@@ -18,4 +18,6 @@ body{
 }
 .shifoumi {
    background-color: beige;
+   display: block ;
+   align-items: center;
 }
