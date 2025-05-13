@@ -1,12 +1,14 @@
 .moves {
     display: flex;
     flex-direction: row;
-    margin:2rem;
+    margin:4rem;
     justify-content: center;
 }
 button {
     background-color: rgb(149, 125, 173);
    color: bisque;
+   size: 3rem;
+   font-size: 1rem;
 }
 #reset {
   background-color:rgb(149, 125, 173) ;
@@ -17,7 +19,6 @@ body{
     background-color:rgb(224, 187, 228);
 }
 .shifoumi {
-   background-color: rgb(197, 119, 221);
    display: flex ;
   flex-direction: column;
   padding: 6rem;
