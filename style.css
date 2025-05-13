@@ -14,11 +14,10 @@ button {
 }
 body{
     background-color:rgb(224, 187, 228);
-    display: flex;
-    justify-content: center;
 }
 .shifoumi {
-   background-color: beige;
+   background-color: rgb(197, 119, 221);
    display: flex ;
   flex-direction: column;
+  padding: 6rem;
 }
