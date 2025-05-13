@@ -1,5 +1,5 @@
 function shifoumi(){
-    let test;
+    
 }
 
 /* fonction choix_bot => générer un nombre aléatoire

@@ -8,21 +8,26 @@ button {
    color: bisque;
    size: 15rem;
    font-size: 1rem;
+   margin: 1rem
    
 }
 #reset {
   background-color:rgb(149, 125, 173) ;
   color: bisque;
-  size: 15rem
+  size: 15rem;
+  display: flex;
+  justify-content: center;
 }
 body{
     background-color:rgb(224, 187, 228);
+    display: flex;
+    justify-content: center;
 }
 .shifoumi {
    background-color: rgb(224, 187, 228);
    display: flex;
-   align-items: row;
-   justify-content: center;
+   flex-direction: column;
+   
   padding: 6rem;
 }
 h1{
