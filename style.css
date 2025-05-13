@@ -1,19 +1,20 @@
 .moves {
     display: flex;
     flex-direction: row;
-    margin:4rem;
+   
     justify-content: center;
 }
 button {
     background-color: rgb(149, 125, 173);
    color: bisque;
-   size: 3rem;
+   size: 5rem;
    font-size: 1rem;
+   margin:4rem;
 }
 #reset {
   background-color:rgb(149, 125, 173) ;
   color: bisque;
-  padding: 2rem;
+  size: 5rem
 }
 body{
     background-color:rgb(224, 187, 228);
