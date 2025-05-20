@@ -2,11 +2,12 @@
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    padding: 5rem;
 }
 button {
     background-color: rgb(149, 125, 173);
    color: bisque;
-   size: 15rem;
+   size: 19rem;
    font-size: 1rem;
    margin: 1rem
    
@@ -14,7 +15,7 @@ button {
 #reset {
   background-color:rgb(149, 125, 173) ;
   color: bisque;
-  size: 15rem;
+  size: 3rem;
   display: flex;
   justify-content: center;
 }
@@ -28,7 +29,7 @@ body{
    display: flex;
    flex-direction: column;
    
-  padding: 6rem;
+  padding: 2rem;
 }
 h1{
     display: flex;
